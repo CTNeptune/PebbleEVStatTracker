@@ -1,0 +1,52 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Thomas Neptune",
+    "longName": "Pokemon EV Stat Tracker",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Pokeball.png",
+                "menuIcon": true,
+                "name": "POKEBALL_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/EVbg_aplite.png",
+                "name": "EVBG_APLITE",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_minus.png",
+                "name": "MINUS_WHITE",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_next.png",
+                "name": "NEXT_WHITE",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_plus.png",
+                "name": "PLUS_WHITE",
+                "type": "png"
+            },
+            {
+                "file": "images/EVbg copy.png",
+                "name": "EV_BG_COLOR",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Pokemon EV Stat Tracker",
+    "uuid": "3b004891-f489-48f7-9611-49da2c0e7081",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
